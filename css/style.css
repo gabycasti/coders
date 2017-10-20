@@ -1,0 +1,56 @@
+div > img {
+
+	width: 150px;
+	height: 150px;
+	margin-left: 4px;
+	position: relative;
+	opacity: 0.8;
+
+	
+}
+div.photo{
+	position:relative;
+
+}
+
+hr {
+    margin-left: 0px;
+    width: 130px;
+    height: 5px;
+    color: black;
+    background: black;
+    margin-top: -10px;
+}
+
+
+div {
+
+	float:left;
+	align-items: center;
+}
+
+p {
+	position:absolute;
+	z-index:1;
+}
+
+
+.texto_1 {
+	font-size: 15px;
+	bottom: 420px;
+	text-align:none;
+	color: white;
+	padding-left: 10px;
+
+	
+}
+
+.texto_2 {
+	font-size: 15px;
+	bottom: 270px;
+	color: white;
+	padding-left: 10px;
+	
+}
+
+
