@@ -8,6 +8,14 @@ div > img {
 
 	
 }
+
+img:hover {
+	-webkit-filter: grayscale(100%);
+     filter: grayscale(100%);
+
+
+}
+
 div.photo{
 	position:relative;
 
@@ -37,7 +45,7 @@ p {
 
 .texto_1 {
 	font-size: 15px;
-	bottom: 420px;
+	bottom: 390px;
 	text-align:none;
 	color: white;
 	padding-left: 10px;
@@ -47,7 +55,7 @@ p {
 
 .texto_2 {
 	font-size: 15px;
-	bottom: 270px;
+	bottom: 230px;
 	color: white;
 	padding-left: 10px;
 	
